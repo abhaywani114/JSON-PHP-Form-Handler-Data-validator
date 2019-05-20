@@ -1,4 +1,4 @@
-#####BismillahHirahManNirRaheem#########
+##### BismillahHirahManNirRaheem #########
 
 #JSON-PHP Form Handler & Data-validator
 ---------------------------------------
